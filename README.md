@@ -20,10 +20,10 @@ Current build status
 
 Current release info
 ====================
-[![Conda Recipe](https://img.shields.io/badge/recipe-r--cobs-green.svg)](https://anaconda.org/conda-forge/r-cobs)
-[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/r-cobs.svg)](https://anaconda.org/conda-forge/r-cobs)
-[![Conda Version](https://img.shields.io/conda/vn/conda-forge/r-cobs.svg)](https://anaconda.org/conda-forge/r-cobs)
-[![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/r-cobs.svg)](https://anaconda.org/conda-forge/r-cobs)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-r--cobs-green.svg)](https://anaconda.org/conda-forge/r-cobs) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/r-cobs.svg)](https://anaconda.org/conda-forge/r-cobs) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/r-cobs.svg)](https://anaconda.org/conda-forge/r-cobs) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/r-cobs.svg)](https://anaconda.org/conda-forge/r-cobs) |
 
 Installing r-cobs
 =================
