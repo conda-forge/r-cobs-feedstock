@@ -1,4 +1,4 @@
-{% set version = '1.3-3' %}
+{% set version = "1.3-4" %}
 
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
@@ -12,11 +12,11 @@ source:
   url:
     - https://cran.r-project.org/src/contrib/cobs_{{ version }}.tar.gz
     - https://cran.r-project.org/src/contrib/Archive/cobs/cobs_{{ version }}.tar.gz
-  sha256: 6b1e760cf8dec6b6e63f042cdc3e5e633de5f982e8bc743a891932f6d9f91bdf
+  sha256: a1c7b77e4ca097349884fd1c0d863d74f9092766131094d603f34d33ab2e3c42
 
 build:
   merge_build_host: True  # [win]
-  number: 1002
+  number: 0
   skip: true  # [win32]
   rpaths:
     - lib/R/lib/
