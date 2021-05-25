@@ -45,7 +45,7 @@ test:
 
 about:
   home: http://curves-etc.r-forge.r-project.org/ http://r-forge.r-project.org/R/?group_id=846
-  license: GPL-2
+  license: GPL-2.0-or-later
   summary: Qualitatively Constrained (Regression) Smoothing Splines via Linear Programming and
     Sparse Matrices.
   license_family: GPL2
